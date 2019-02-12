@@ -1,3 +1,3 @@
-# Hash_table
+# Repository organization:
 
 [Hash_table task](./Task.pdf)
