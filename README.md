@@ -1,3 +1,3 @@
 # Hash_table
 
-# H1
+[Contribution guidelines for this project](./Task.pdf)
