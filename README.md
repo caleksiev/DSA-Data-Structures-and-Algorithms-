@@ -1,4 +1,6 @@
 # Data structures and algorithms in C++
 ## Repository organization:
 
-[Hash_table task](./Task.pdf)
+
+### Hash_table
+[Task:](./Task.pdf)
