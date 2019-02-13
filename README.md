@@ -6,6 +6,6 @@
 
 The program demonstrate the benefits of dynamic array  and doubly linked list.
 ### Hash_table
-[Task](./Hash_Table/Task.pdf)
+[Task](./Hash_table/Task.pdf)
 
 The program demonstrate the benefits of linear probing hash and circular linked list.
