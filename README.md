@@ -2,7 +2,7 @@
 ## Repository organization:
 
 ### Dynamic Array,Linked List
-[Task](./Task.pdf)
+[Task](./Dynamic Array,Linked List/Task.pdf)
 
 The program demonstrate the benefits of dynamic array  and doubly linked list.
 ### Hash_table
