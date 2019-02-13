@@ -11,4 +11,6 @@ The program demonstrate the benefits of dynamic array  and doubly linked list.
 The program demonstrate the benefits of linear probing hash and circular linked list.
 
 ### Graph
+
+In progress!The task demonstrate DFS and searching a path in the graph!
 [Task](./Graph/Task.pdf)
