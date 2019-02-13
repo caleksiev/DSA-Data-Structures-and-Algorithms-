@@ -3,4 +3,4 @@
 
 
 ### Hash_table
-[Task:](./Task.pdf)
+[Task](./Task.pdf)
