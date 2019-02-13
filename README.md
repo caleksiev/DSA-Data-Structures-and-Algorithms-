@@ -16,4 +16,6 @@ The program demonstrate the benefits of linear probing hash and circular linked 
 
 In progress!The task demonstrate DFS and searching a path in the graph!
 
+### BHeap_BST
 
+The program construct a binary search tree from a binary heap!
